@@ -1,55 +1,26 @@
 # Mayank Shrivastava  
 **MCA Student | Full-Stack Development Learner | Python & SQL**
 
-I am an MCA student focused on becoming a **job-ready Full-Stack Developer**. I work with **JavaScript, Python, and SQL** and I am building a strong foundation in **backend systems, databases, and problem-solving**.
+I am an MCA student building a strong foundation in **Full-Stack Development, backend systems, and databases**. I work with **JavaScript, Python, and SQL** and have hands-on experience with **Machine Learning fundamentals** through small practical projects.
 
-Alongside web development, I have hands-on exposure to **Machine Learning fundamentals** and have built small **ML-based projects** for learning and experimentation.
-
-I value **clear communication, structured thinking, and practical implementation** — not just theory.
+I focus on **clear communication, logical problem-solving, and real-world implementation**.
 
 ---
 
-## 🔧 Technical Skills
-
-### Languages
-- Python  
-- JavaScript  
-- SQL  
-
-### Web Development
-- HTML, CSS  
-- JavaScript (DOM, async/await, promises)  
-- Basic backend & API concepts  
-
-### Databases
-- MySQL  
-- Query writing, joins, normalization  
-
-### Machine Learning (Basics)
-- Data preprocessing  
-- Model training (classification & regression)  
-
-
-### Tools
-- Git & GitHub  
-- VS Code  
+## Skills
+- **Languages:** Python, JavaScript, SQL  
+- **Web:** HTML, CSS, DOM, async/await  
+- **Database:** MySQL, queries, joins  
+- **ML:** Data preprocessing, basic models  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 📌 Projects
-- **AI-Powered Resume Builder** – Generates structured resumes from user input  
-- **Sports Center Management System** – Manages players, schedules, and records  
-- **Machine Learning Mini-Projects** – Built to practice data handling and prediction models  
+## Projects
+- AI-Powered Resume Builder  
+- Sports Center Management System  
+- Machine Learning Mini-Projects  
 
 ---
 
-## 📚 Currently Learning
-- Advanced JavaScript  
-- Backend development  
-- Data Structures & Algorithms  
-
-
----
-
-**Goal:**  
-To secure a Full-Stack or Software Engineer role in a technology-driven company through strong fundamentals and real-world projects.
+**Goal:** Become a job-ready Full-Stack or Software Engineer.
