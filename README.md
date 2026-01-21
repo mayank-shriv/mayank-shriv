@@ -17,7 +17,8 @@ Academic machine learning project aimed at detecting Alzheimer’s disease using
 ## 🛠 Technical Skill Set
 
 **Languages**  
-- JavaScript  
+- JavaScript
+- Python
 
 **Backend & APIs**  
 - Node.js, Express.js  
