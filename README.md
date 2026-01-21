@@ -1,6 +1,6 @@
 ## 🚀 Projects
 
-### 🔗 [Student Management System](https://github.com/your-username/student-management-system)
+### 🔗 [Student Management System](https://student-management-system-1-cwj1.onrender.com)
 Full-stack application to manage student records with secure authentication and database-driven operations.  
 **Tech:** Node.js, Express.js, MongoDB, REST APIs
 
