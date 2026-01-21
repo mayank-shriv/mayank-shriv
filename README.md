@@ -1,50 +1,46 @@
-# Projects
+## 🚀 Projects
 
-## Student Management System
-A full-stack web application for managing student records, authentication, and database operations using **Node.js, Express.js, MongoDB, and REST APIs**.
+### 🔗 [Student Management System](https://github.com/your-username/student-management-system)
+Full-stack application to manage student records with secure authentication and database-driven operations.  
+**Tech:** Node.js, Express.js, MongoDB, REST APIs
 
-## Video Streaming Platform
-A backend-driven video streaming platform with API-based video delivery, database integration, and deployment experience using **Node.js, Express.js, MongoDB, Render/Railway, and environment-based configuration**.
+### 🔗 [Video Streaming Platform](https://github.com/your-username/video-streaming-platform)
+Backend-focused video streaming platform supporting API-based video delivery, database integration, and cloud deployment.  
+**Tech:** Node.js, Express.js, MongoDB, Render, Railway, environment variables
 
-## Alzheimer’s Disease Detection System
-A machine learning–based system focused on detecting Alzheimer’s disease using data analysis and classification techniques (academic/research-oriented project).
+### 🔗 [Alzheimer’s Disease Detection System](https://github.com/your-username/alzheimers-disease-detection)
+Academic machine learning project aimed at detecting Alzheimer’s disease using data preprocessing and classification techniques.  
+**Tech:** Python, Machine Learning basics
 
 ---
 
-# Technical Skills
+## 🛠 Technical Skill Set
 
-## Programming Languages
-- JavaScript
+**Languages**  
+- JavaScript  
 
-## Backend Development
-- Node.js  
-- Express.js  
+**Backend & APIs**  
+- Node.js, Express.js  
+- RESTful API design  
 
-## Databases
+**Databases**  
 - MongoDB  
 - MySQL  
 
-## API Development
-- RESTful APIs
+**Deployment & Configuration**  
+- Render, Railway  
+- Environment variables (.env)  
 
-## Deployment & DevOps
-- Render  
-- Railway  
-- Environment Variables (.env)
+**Tools & Development Practices**  
+- Git, GitHub  
+- Modular folder structure  
+- Professional backend setup  
 
-## Tools & Practices
-- Git  
-- GitHub  
-- Modular Project Structure  
-- Professional Backend Setup  
+**Frontend Fundamentals**  
+- HTML, CSS, JavaScript  
 
-## Frontend Basics
-- HTML  
-- CSS  
-- JavaScript  
-
-## Core Concepts
+**Core Backend Concepts**  
 - Authentication  
-- Database Connectivity  
-- Error Handling  
-- Server-side Architecture
+- Database connectivity  
+- Error handling  
+- Server-side architecture
