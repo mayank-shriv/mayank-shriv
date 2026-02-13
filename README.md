@@ -1,6 +1,6 @@
 ## 🚀 Projects
 
-### 🔗 [Personal Portfolio Website](https://mayank-shriv.github.io/Porfolio/)
+### 🔗 [Personal Portfolio Website](https://mayank-shriv.github.io/Portfolio/)
 A responsive personal portfolio showcasing projects, technical skills, and contact information with a clean UI and structured layout.  
 **Tech:** HTML, CSS, JavaScript, GitHub Pages  
 
